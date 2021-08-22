@@ -1,4 +1,6 @@
 ![kyosukemine's github stats](https://github-readme-stats.vercel.app/api?username=kyosukemine)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyosukemine&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @kyosukemine
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
